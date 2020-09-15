@@ -1,3 +1,13 @@
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+ tex2jax: {
+ inlineMath: [["\\(","\\)"] ],
+ displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+ }
+ });
+</script>
+
 # 問題文
 すぬけ君は 1,2,3 の番号がついた 3 つのマスからなるマス目を持っています。 各マスには `0` か `1` が書かれており、マス i には$ s_i $が書かれています。
 
