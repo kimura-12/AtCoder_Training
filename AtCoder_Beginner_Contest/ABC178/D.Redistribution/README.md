@@ -1,1 +1,1 @@
-![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Begginner_Contest/ABC178/D.Redistribution/question.png)
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC178/D.Redistribution/question.png)
