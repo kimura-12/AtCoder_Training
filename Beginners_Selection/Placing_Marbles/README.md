@@ -1,1 +1,1 @@
-![question](https://github.com/kimura-12/AtCoder_Training/blob/master/Beginners_Selection/Placing_Marbles)
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/Beginners_Selection/Placing_Marbles/question.png)
