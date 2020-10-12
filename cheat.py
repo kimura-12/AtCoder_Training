@@ -24,3 +24,6 @@ a = [int(input()) for _ in range(4)]
 # 各英語についてlistにする場合
 abc = [map(int, input().split()) for _ in range(N)]
 a, b, c = [list(i) for i in zip(*abc)]
+
+#あるリストbに基づいてaをソートしたい場合
+a = [i for _, i in sorted(zip(b, a))]
