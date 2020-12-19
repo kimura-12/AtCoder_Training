@@ -27,3 +27,6 @@ a, b, c = [list(i) for i in zip(*abc)]
 
 #あるリストbに基づいてaをソートしたい場合
 a = [i for _, i in sorted(zip(b, a))]
+
+#行列で入れる場合
+a = [list(map(int, input().split())) for l in range()]
