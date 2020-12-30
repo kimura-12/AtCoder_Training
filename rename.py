@@ -22,4 +22,4 @@ for c, s, sf in os .walk(path):
         p = c + "/" + "README.md"
         f = open(p, "w")
         for j in range(1, count + 1):
-            f.write("![question](https://github.com/kimura-12/AtCoder_Training/blob/master/" + c[2:] + "/question{:01d}".format(j))
+            f.write("![question](https://github.com/kimura-12/AtCoder_Training/blob/master/" + c[2:] + "/question{:01d}.png".format(j))
