@@ -1,0 +1,1 @@
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC185/B.Smartphone_Addiction/question1.png)![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC185/B.Smartphone_Addiction/question2.png)
