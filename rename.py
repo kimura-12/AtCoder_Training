@@ -23,4 +23,4 @@ for c, s, sf in os .walk(path):
         f = open(p, "w")
         for j in range(1, count + 1):
             c_ = c.replace(os.sep,'/')
-            f.write("![question](https://github.com/kimura-12/AtCoder_Training/blob/master/" + c_[2:] + "/question{:01d}.png".format(j))
+            f.write("![question](https://github.com/kimura-12/AtCoder_Training/blob/master/" + c_[2:] + "/question{:01d}.png)".format(j))
