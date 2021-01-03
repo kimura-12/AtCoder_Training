@@ -1,0 +1,1 @@
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC187/C.1-SAT/question1.png)![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC187/C.1-SAT/question2.png)
