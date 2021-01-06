@@ -6,7 +6,7 @@ Use python.
 It is assumed that the ABC or ARC folders have been created.  
 Select ABC or ARC as the argument.  
 The numbering is also given.  
-"""
+```bash
 python rename.py --ABC Ture (or False) --title 100
-"""
+```
 The name of the screenshot will be changed and a corresponding README.md will be created.
