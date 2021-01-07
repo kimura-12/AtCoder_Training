@@ -10,3 +10,6 @@ The numbering is also given.
 python rename.py --ABC Ture (or False) --title 100
 ```
 Screenshot's name will be changed and a corresponding README.md will be created.
+
+# AtCoder rate
+https://atcoder.jp/users/sura12
