@@ -9,4 +9,4 @@ The numbering is also given.
 ```bash
 python rename.py --ABC Ture (or False) --title 100
 ```
-The name of the screenshot will be changed and a corresponding README.md will be created.
+Screenshot's name will be changed and a corresponding README.md will be created.
