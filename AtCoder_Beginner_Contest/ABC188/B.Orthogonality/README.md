@@ -1,0 +1,1 @@
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC188/B.Orthogonality/question1.png)![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC188/B.Orthogonality/question2.png)

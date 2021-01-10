@@ -1,0 +1,1 @@
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC188/A.Three-Point_Shot/question1.png)![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC188/A.Three-Point_Shot/question2.png)

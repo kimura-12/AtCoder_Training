@@ -1,0 +1,1 @@
+![question](https://github.com/kimura-12/AtCoder_Training/blob/master/AtCoder_Beginner_Contest/ABC161/B.Popular_Vote/question1.png)
